@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  InitShader.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\texture\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  Gerando Código...
+  Texture.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\Texture.exe
+  Texture.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\Texture.pdb (Partial PDB)

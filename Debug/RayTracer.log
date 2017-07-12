@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  InitShader.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\raytracer\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  Gerando Código...
+  RayTracer.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\RayTracer.exe
+  RayTracer.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\RayTracer.pdb (Partial PDB)

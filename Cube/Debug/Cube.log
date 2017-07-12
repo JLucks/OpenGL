@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\cube\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  Cube.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\Cube.exe
+  Cube.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\Cube.pdb (Partial PDB)

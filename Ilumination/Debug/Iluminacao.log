@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Iluminacao.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  InitShader.cpp
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\angel.h(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(707): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(708): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(709): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(730): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(732): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(735): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\jorge\documents\codeprojects\cg\trabalho de cg\iluminacao\mat.h(752): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  Gerando Código...
+  Iluminacao.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\Ilumination.exe
+  Iluminacao.vcxproj -> C:\Users\Jorge\Documents\CodeProjects\CG\Trabalho de CG\Debug\Ilumination.pdb (Partial PDB)
